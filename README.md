@@ -1,4 +1,4 @@
-# 💫 Hey, I'm Atharva:
+# 💫 Hey, I'm Atharva
 🌟 About Me<br><br>Hi, I'm Atharva — a full-stack developer who loves turning ideas into clean, scalable, and production-ready applications.<br>I specialize in crafting modern frontend experiences and building reliable backend systems that actually ship and perform.<br><br>🎯 My Interests:<br><br>I love building:<br>🧩 Systems that make sense<br>⚡ UIs that feel fast<br>📐 Codebases that remain clean even as they grow<br>🌍 Products that feel polished end-to-end.<br><br>🤝 Let’s Connect<br><br>I’m always open to collaborating, improving systems, or just chatting about tech!<br>Feel free to reach out — I’d love to hear from you.
 
 
